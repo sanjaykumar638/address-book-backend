@@ -63,15 +63,14 @@ Register a new user and store their address.
 
 **Request Body:**
 
-    ```bash
+
     json
     
     {
         "name": "John Doe",
         "address": "123 Main St, Anytown, USA"
     }
-    ```
-
+    
 ## Response:
 
 1. Success (201): Returns the created user and address object.
@@ -81,7 +80,7 @@ Register a new user and store their address.
 
 Retrieve all users and their associated addresses.
 
-Response:
+**Response:**
 
 Returns an array of user objects with their addresses.
 
