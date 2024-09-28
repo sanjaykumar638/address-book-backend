@@ -32,7 +32,7 @@ A simple Node.js backend application that allows users to register and store the
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/address-book-backend.git
+   git clone https://github.com/sanjaykumar638/address-book-backend
 
 2. **Navigate to the project directory:**
     ```bash
