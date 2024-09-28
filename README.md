@@ -35,8 +35,8 @@ A simple Node.js backend application that allows users to register and store the
    git clone https://github.com/yourusername/address-book-backend.git
 
 2. **Navigate to the project directory:**
-  ```bash
-   cd address-book-backend
+    ```bash
+    cd address-book-backend
 
 3. **Install dependencies:**
    ```bash
