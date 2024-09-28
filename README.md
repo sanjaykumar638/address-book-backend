@@ -32,7 +32,7 @@ A simple Node.js backend application that allows users to register and store the
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sanjaykumar638/address-book-backend
+   git clone https://github.com/sanjaykumar638/address-book-backend.git
 
 2. **Navigate to the project directory:**
     ```bash
@@ -44,7 +44,7 @@ A simple Node.js backend application that allows users to register and store the
 
 4. **Set up environment variables: Create a .env file in the root directory and add your MongoDB connection string:**
      ```bash
-     MONGODB_URI=mongodb://localhost:27017/dbb
+     MONGODB_URI= mongodb://localhost:27017/dbb
 
 
 ## Usage
