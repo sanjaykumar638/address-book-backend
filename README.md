@@ -63,7 +63,8 @@ Register a new user and store their address.
 
 **Request Body:**
 
-    ```json
+    ```bash
+    json
     {
         "name": "John Doe",
         "address": "123 Main St, Anytown, USA"
